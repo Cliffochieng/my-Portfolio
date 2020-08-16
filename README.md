@@ -2,7 +2,7 @@
 #### {A website for my portfolio}, {2020}
 #### By **{Clifford Ochieng}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{The website is modelled to make more ownership and responsibility over my learning process and also to critique and evaluate my own work and academic progress. }
 ## Setup/Installation Requirements
 {The web browser on the computer}
 ## Known Bugs
