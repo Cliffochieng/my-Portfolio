@@ -1,6 +1,7 @@
 body{
-    background-image: url(/images/pic.jpeg);
-    background-size: cover;
+    /* background-image: url(/images/pic.jpeg);
+    background-size: cover; */
+    background-color: teal;
 }
 nav {
     max-width: 960px;
@@ -177,6 +178,9 @@ nav {
 }
 .column2>h3{
   text-align: center;
+}
+*{
+  /* background-image: url(/images/pic.jpeg); */
 }
 
 
